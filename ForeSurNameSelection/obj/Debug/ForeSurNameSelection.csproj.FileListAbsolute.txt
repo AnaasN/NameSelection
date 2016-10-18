@@ -1,0 +1,6 @@
+C:\Users\amand_000\Source\Repos\Name\ForeSurNameSelection\ForeSurNameSelection\bin\Debug\ForeSurNameSelection.exe.config
+C:\Users\amand_000\Source\Repos\Name\ForeSurNameSelection\ForeSurNameSelection\bin\Debug\ForeSurNameSelection.exe
+C:\Users\amand_000\Source\Repos\Name\ForeSurNameSelection\ForeSurNameSelection\bin\Debug\ForeSurNameSelection.pdb
+C:\Users\amand_000\Source\Repos\Name\ForeSurNameSelection\ForeSurNameSelection\obj\Debug\ForeSurNameSelection.csprojResolveAssemblyReference.cache
+C:\Users\amand_000\Source\Repos\Name\ForeSurNameSelection\ForeSurNameSelection\obj\Debug\ForeSurNameSelection.exe
+C:\Users\amand_000\Source\Repos\Name\ForeSurNameSelection\ForeSurNameSelection\obj\Debug\ForeSurNameSelection.pdb
